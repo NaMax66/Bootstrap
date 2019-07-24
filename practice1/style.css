@@ -1,0 +1,15 @@
+.my_btn:focus,
+.my_btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.picture {
+    width: 100%;
+}
+
+
+/* .carousel {
+    width: 50rem;
+    overflow: hidden;
+}  */
